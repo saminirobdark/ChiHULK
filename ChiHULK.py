@@ -10,7 +10,7 @@
 # ChiHULK / edited version info:
 #
 # Version 0.5 BETA
-# Any malicious usage of this tool is prohibited and illegal!            | @chinassie
+# Any malicious usage of this tool is prohibited and illegal!            | @luc_far
 # ----------------------------------------------------------------------------------------------
 
 import urllib2
