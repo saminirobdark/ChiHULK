@@ -9,8 +9,7 @@ https://sourceforge.net/projects/chihulk-dos-tool/
 *******************************************************
 Twitter:
 https://twitter.com/chinassie
-@chinassie
 *******************************************************
-Facebook:
-https://www.facebook.com/profile.php?id=100012934719053
+Telegram:
+https://t.me/luc_far
 *******************************************************
